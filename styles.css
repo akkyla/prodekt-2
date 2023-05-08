@@ -26,6 +26,29 @@ background: pink;
 
 
 }
+div{
+
+display: grid;
+background: rgb(173, 141, 141);
 
 
 
+}
+div.parent{
+display: grid;
+grid-template-columns: 20% 80%;
+min-height: 100vh;
+
+}
+div#child{
+background: gold;
+
+
+}
+.box{
+width: 100px;
+height: 100px;
+background: yellow;
+border: 1px solid black;
+
+}
