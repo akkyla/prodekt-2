@@ -9,7 +9,7 @@ nav{
 background: pink;
 }
 div{
-display: grid;
+/* display: grid; */
 background: rgb(173, 141, 141);
 }
 div.parent{
