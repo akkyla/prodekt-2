@@ -26,3 +26,6 @@ height: 100px;
 background: yellow;
 border: 5px solid black;
 }
+p {
+  background: red;
+}
